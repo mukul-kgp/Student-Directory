@@ -1,0 +1,4 @@
+mysql_host: 'localhost'
+mysql_user: 'mukul'
+mysql_password: 'mukul'
+mysql_db: 'users'
